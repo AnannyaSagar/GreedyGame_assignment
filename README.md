@@ -180,12 +180,19 @@ Number of anomalies present in the data for each of the apps are given by-
 
 app_id
 Count of Anomalies
+
 22693095 - 190
+
 63338696 -  82
+
 47862278 -  69
+
 40931528 -  50
+
 43840611 -  49
+
 66981243 -  31
+
 84650721 -  9
 
 From the above table it can be seen that the highest count of anomalies is present in app_id - 22693095, followed by 63338696, further in 47862278 and so on.
